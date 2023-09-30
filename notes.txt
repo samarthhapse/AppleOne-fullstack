@@ -1,0 +1,19 @@
+index.html
+**we use scrolltrigger and locomotive just to create smooth flow in our webpage
+copy and paste scripts 1.gsap 2.cdn from "gsap websites"
+add css and js links from "locomtive js cdn"
+
+actually locomotive and scroll trigger can not work together
+we need to connect them "locomotive scrolltrigger codepen"
+paste that js part in our index.js
+put that js code in any function 
+then call same function 
+
+<div class="hero-headline-container" data-component-list="ChangingHeadline">
+					<h1 class="visuallyhidden">Apple&nbsp;One</h1>
+					<figure class="hero-headline hero_logo_icloud show-state hide-state"></figure>
+					<figure class="hero-headline hero_logo_tv show-state hide-state"></figure>
+					<figure class="hero-headline hero_logo_music show-state hide-state"></figure>
+					<figure class="hero-headline hero_logo_arcade show-state hide-state"></figure>
+					<figure class="hero-headline hero_logo_apple_one show-state"></figure>
+				</div>
